@@ -1,0 +1,15 @@
+data-analytics-dashboard/
+│
+├── data/
+│   └── sales_data.csv
+│
+├── etl/
+│   └── load_to_snowflake.py
+│
+├── snowflake/
+│   └── schema.sql
+│
+├── reports/
+│   └── PowerBI_Dashboard.pbix
+│
+└── README.md
