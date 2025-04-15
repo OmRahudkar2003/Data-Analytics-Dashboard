@@ -1,4 +1,5 @@
 📊 Data Analytics Dashboard
+
 A scalable data analytics dashboard project that utilizes Snowflake as the cloud data warehouse, Python for ETL (Extract, Transform, Load) operations, and Power BI for creating real-time business intelligence visualizations.
 
 🚀 Features
